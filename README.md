@@ -12,6 +12,8 @@ I am a hybrid infrastructure specialist focused on bridging the gap between trad
 
 #### 🌐 Network Engineering & Cloud
 ![Cisco](https://shields.io)
+![CCNA](https://shields.io)
+
 
 #### 🤖 NetDevOps & Automation
 ![Ansible](https://shields.io)
