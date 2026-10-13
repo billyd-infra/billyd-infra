@@ -1,6 +1,6 @@
 # Hello, I'm Billy
 
-<a href="www.linkedin.com/in/billy-dunnic-04b05514"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/billy-dunnic-04b05514"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Network & Azure Cloud Infrastructure Engineer | NetDevOps
 
