@@ -1,5 +1,57 @@
 # Hello, I'm Billy
+
 <a href="www.linkedin.com/in/billy-dunnic-04b05514"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+### Network & Azure Cloud Infrastructure Engineer | NetDevOps
+
+I am a hybrid infrastructure specialist focused on bridging the gap between traditional networking, cloud environments, and modern automation. I leverage infrastructure-as-code to design, deploy, and secure highly available networks and Azure cloud ecosystems.
+
+---
+
+### 🛠️ Core Infrastructure Stack
+
+#### 🌐 Network Engineering & Cloud
+![Cisco](https://shields.io)
+
+#### 🤖 NetDevOps & Automation
+![Ansible](https://shields.io)
+![Terraform](https://shields.io)
+![Python](https://shields.io)
+![GitHub Actions](https://shields.io)
+
+---
+
+### 🚀 What I Do
+* **Cloud Networking:** Architecting enterprise Azure environments, including VNets, ExpressRoute, VPN Gateways, Azure Firewall, and Hub-Spoke topologies.
+* **Infrastructure as Code (IaC):** Automating network deployments and state management using Terraform, Bicep, and Ansible playbooks.
+* **Network Reliability:** Maintaining high-availability routing, switching, and firewall architectures across hybrid systems.
+* **CI/CD Pipelines:** Building secure automation loops via GitHub Actions to validate network changes before push.
+
+---
+
+### 📈 GitHub Infrastructure Metrics
+![Billy's GitHub Stats](https://vercel.app)
+
+---
+
+### 🤝 Let's Connect
+* **LinkedIn:** [://linkedin.com](www.linkedin.com/in/billy-dunnic-04b05514)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Brief Introduction - Remove this afterwards]
 
@@ -11,16 +63,15 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+| Skill | Associated Project |
+|-------------------------------------------|---------------------------------|
+| Infrastructure as Code (IaC) Architecture | <a href="https://github.com">Azure Hybrid VNet Hub</a> |
+| Network Automation & Configuration Management | <a href="https://github.com">Ansible Cisco/Juniper Lab</a> |
+| Cloud Networking & Security Group Automation | <a href="https://github.com">Azure Network Automation</a> |
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
